@@ -7,6 +7,10 @@ node_modules
 .cdk.staging
 cdk.out
 
+.venv/
+venv/
+__pycache__/
+*.pyc
 .env
 .env.*
 !.env.example
